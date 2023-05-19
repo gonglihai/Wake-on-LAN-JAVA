@@ -3,7 +3,7 @@
 - JAVA 版本 8
 
 ## 配置
-MAC_ADDRESS       唤醒机器的mac地址
+MAC_ADDRESS       唤醒机器的mac地址  
 BROADCAST_ADDRESS 内网广播地址
 
 ## 编译
